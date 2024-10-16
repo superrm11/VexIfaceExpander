@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "mikroBUS")(type "KiCad")(uri "/home/ryan/Documents/kicad/Libraries/kicad-mikroBUS/modules/mikroBUS.pretty")(options "")(descr ""))
+  (lib (name "SparkFun-Connector")(type "KiCad")(uri "/home/ryan/Documents/kicad/Libraries/SparkFun-KiCad-Libraries/Footprints/SparkFun-Connector.pretty")(options "")(descr ""))
+  (lib (name "pcb")(type "KiCad")(uri "/shared/ryan/Documents/kicad/Libraries/McGeeLib/pcb")(options "")(descr ""))
+)
