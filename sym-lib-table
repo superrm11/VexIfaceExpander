@@ -5,4 +5,5 @@
   (lib (name "ADM3493ARZ")(type "Legacy")(uri "/shared/ryan/Documents/kicad/Libraries/McGeeLib/schem/ADM3493ARZ.lib")(options "")(descr ""))
   (lib (name "RJ9")(type "KiCad")(uri "/shared/ryan/Documents/kicad/Libraries/McGeeLib/schem/RJ9.kicad_sym")(options "")(descr ""))
   (lib (name "2024-08-11_22-55-58")(type "KiCad")(uri "/shared/ryan/Documents/kicad/Libraries/McGeeLib/schem/2024-08-11_22-55-58.kicad_sym")(options "")(descr ""))
+  (lib (name "SparkFun-Board")(type "KiCad")(uri "/home/ryan/Documents/kicad/Libraries/SparkFun-KiCad-Libraries/Symbols/SparkFun-Board.kicad_sym")(options "")(descr ""))
 )
