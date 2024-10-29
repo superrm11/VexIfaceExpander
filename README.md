@@ -4,6 +4,9 @@ This project aims to create a board that breaks out a smart port to both Qwiic C
 
 This project is a work in progress and is not ready for testing yet.
 
-![schematic](https://github.com/user-attachments/assets/828ead20-9a20-423c-8da2-2bc73336ac49)
+![3d model](https://github.com/user-attachments/assets/05eb1e7c-4115-45d1-82fa-4a1d907fe4cd)
 
-![Screenshot_20241015_222035](https://github.com/user-attachments/assets/47d1e7b9-f74b-47b3-914f-924d54f61657)
+![schematic](https://github.com/user-attachments/assets/fb1b1670-e209-4667-9a38-d26307c259d2)
+
+![pcb](https://github.com/user-attachments/assets/8b0e347c-15da-4e7c-847a-21508924f240)
+
